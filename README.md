@@ -2,7 +2,7 @@ I mostly makes games and open-source utility libraries.
 
 If you want to see my attempts at various programming-exercises, check out [my kata organisation](https://github.com/comradevanti-katas).
 
-Also, I have a blog on: [comradevanti.github.io](comradevanti.github.io).
+Also, I have a blog on: [comradevanti.github.io](https://comradevanti.github.io).
 
 Finally, if something I made was useful to you, you can give me money if you want.
 
