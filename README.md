@@ -10,7 +10,3 @@ Finally, if something I made was useful to you, you can give me money if you wan
 
 
 Seize the memes of production ✊
-
-## Testimonials
-
-- [The script not work](https://github.com/ComradeVanti/UnityWaitForAnim/issues/1)
